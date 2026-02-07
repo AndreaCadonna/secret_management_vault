@@ -15,6 +15,9 @@ audit.log
 .vscode/
 .idea/
 
+# Claude Code internals
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
